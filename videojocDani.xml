@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videojocs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="videojocdani2.xsd">
+    <joc>
+        <codi>G-001AAA</codi>
+        <nom>Leagueoflegends</nom>
+        <genere>MOBA</genere>>
+        <nomestudi>Riot</nomestudi>>
+        <preu>40</preu>
+    </joc>
+    <joc>
+        <codi>G-002AAB</codi>
+        <nom>Zelda</nom>
+        <genere>RPG</genere>>
+        <nomestudi>Nintendo</nomestudi>>
+        <preu>30</preu>
+    </joc>
+    <joc>
+        <codi>G-003AAC</codi>
+        <nom>Valorant</nom>
+        <genere>FPS</genere>>
+        <nomestudi>RIOT</nomestudi>>
+        <preu>50</preu>
+    </joc>
+    <joc>
+        <codi>G-004AAD</codi>
+        <nom>ApexLegends</nom>
+        <genere>FPS</genere>>
+        <nomestudi>ElectronicArts</nomestudi>>
+        <preu>70</preu>
+    </joc>
+</videojocs>
